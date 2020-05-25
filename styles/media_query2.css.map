@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,oCAAoC;EACnC,OAAO;IACN,OAAO,EAAE,IAAI",
+"sources": ["media_query2.sass"],
+"names": [],
+"file": "media_query2.css"
+}
